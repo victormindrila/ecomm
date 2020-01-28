@@ -1,27 +1,6 @@
 [
-  {
-    "items": [],
-    "id": "fe7ba293"
-  },
-  {
-    "items": [],
-    "id": "56bbd709"
-  },
-  {
-    "items": [],
-    "id": "b46c4c7d"
-  },
-  {
-    "items": [
-      {
-        "id": "e7fccbd5",
-        "quantity": 1
-      }
-    ],
-    "id": "4c18afd2"
-  },
-  {
-    "items": [],
-    "id": "2dd73e1e"
-  }
+	{
+		"items": [],
+		"id": "fe7ba293"
+	}
 ]
